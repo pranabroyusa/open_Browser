@@ -25,6 +25,8 @@ public class Take_Screen_Shot {
 		  System.setProperty(
 		  "webdriver.chrome.driver","C:\\Users\\Pranab Roy\\Desktop\\Drivers\\chromedriver.exe"
 		  ); driver=new ChromeDriver();
+		  
+		  //Firefox driver
 		 
 		/*
 		 * System.setProperty(
