@@ -21,12 +21,12 @@ public class Take_Screen_Shot {
 	@Test
 	public void take_screen_shot() throws InterruptedException
 	{
-		//Chrome driver
+		
 		  System.setProperty(
 		  "webdriver.chrome.driver","C:\\Users\\Pranab Roy\\Desktop\\Drivers\\chromedriver.exe"
 		  ); driver=new ChromeDriver();
 		  
-		  //Firefox driver
+		 
 		 
 		/*
 		 * System.setProperty(
