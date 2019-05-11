@@ -53,7 +53,7 @@ public class Take_Screen_Shot {
 		}
 		
 	}
-	
+	//// comment by developer 1st
 	public void screenshot(String testName) throws IOException
 	{
 		TakesScreenshot ts=((TakesScreenshot)driver);
