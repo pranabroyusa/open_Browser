@@ -73,4 +73,4 @@ public class Take_Screen_Shot {
 	}
 
 }
-// comment by dev 2
+// comment by developer 2
